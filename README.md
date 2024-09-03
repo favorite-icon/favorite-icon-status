@@ -17,7 +17,7 @@ Small library for status manipulating with desktop favicon.
 # Installation
 `npm install favorite-icon-status`
 
-# [Demo](https://favorite-icon.github.io/favorite-icon/examples/status.html)
+# [Demo](https://favorite-icon.github.io/examples/status.html)
 
 # Using
 ```js
