@@ -1,6 +1,6 @@
 {
   "name": "favorite-icon-status",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Small library for status manipulating desktop favicon",
   "main": "dist/index.common.js",
   "module": "dist/index.esm.js",
